@@ -6,7 +6,7 @@ Code accompanying the papers
 *Phys. Rev. Fluids (2025)*
 
 **A posteriori closure of turbulence models: are symmetries preserved?**  
-*European Journal of Mechanics / B Fluids (2025)*
+*European Journal of Mechanics / B Fluids (2026)*
 
 
 ---
@@ -75,12 +75,6 @@ Training is performed by embedding the neural network inside the reduced solver 
 
 ```
 python train.py path_to_dataset.npz
-```
-
-Example:
-
-```
-python train.py u_40_2.npz
 ```
 
 The trained model is saved as a `.keras` file.
