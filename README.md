@@ -117,7 +117,7 @@ If you use this code in your research, please cite the following works.
 ### Solver-in-the-loop closure
 
 ```
-@article{freitas24,
+@article{freitas25,
   title = {Solver-in-the-loop approach to closure of shell models of turbulence},
   author = {Freitas, André and Um, Kiwon and Desbrun, Mathieu and Buzzicotti, Michele and Biferale, Luca},
   journal = {Phys. Rev. Fluids},
@@ -133,12 +133,16 @@ If you use this code in your research, please cite the following works.
 ### Symmetry preservation in a posteriori closures
 
 ```
-@article{freitas25,
-  title = {A posteriori closure of turbulence models: are symmetries preserved?},
-  author = {Freitas, André and Um, Kiwon and Desbrun, Mathieu and Buzzicotti, Michele and Biferale, Luca},
-  journal = {European Journal of Mechanics / B Fluids},
-  year = {2025}
-}
+@article{freitas26,
+title = {A posteriori closure of turbulence models: Are symmetries preserved?},
+journal = {European Journal of Mechanics - B/Fluids},
+volume = {119},
+pages = {204496},
+year = {2026},
+issn = {0997-7546},
+doi = {https://doi.org/10.1016/j.euromechflu.2026.204496},
+url = {https://www.sciencedirect.com/science/article/pii/S0997754626000439},
+author = {André Freitas and Kiwon Um and Mathieu Desbrun and Michele Buzzicotti and Luca Biferale},
 ```
 
 
