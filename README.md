@@ -3,12 +3,10 @@
 Code accompanying the papers
 
 **[Solver-in-the-loop approach to closure of shell models of turbulence](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.10.044602)**
-
 Freitas et al.  
 *Phys. Rev. Fluids (2025)*
 
-## [A posteriori closure of turbulence models: are symmetries preserved?](https://www.sciencedirect.com/science/article/pii/S0997754626000439)
-
+**[A posteriori closure of turbulence models: are symmetries preserved?](https://www.sciencedirect.com/science/article/pii/S0997754626000439)**
 Freitas et al.  
 *European Journal of Mechanics / B Fluids (2026)*
 
